@@ -6,6 +6,7 @@
 <%@ page import="com.google.appengine.api.users.UserServiceFactory" %>
 <%@ page import="de.vogella.gae.java.todo.model.Todo" %>
 <%@ page import="de.vogella.gae.java.todo.dao.Dao" %>
+<%@ page import="de.vogella.gae.java.todo.dao.EMFService" %>
 
 <!DOCTYPE html>
 
